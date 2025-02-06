@@ -1,7 +1,7 @@
 # ufetch-void-Laptop
 ufetch-void with battery info
 
-Dependencies:
+### Dependencies:
 + upower
 
 ![Screenshot of ufetch](/.images/example.png)
